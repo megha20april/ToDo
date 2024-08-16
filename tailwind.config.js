@@ -12,6 +12,8 @@ export default {
       'lightGreen': '#BEDC74',
       'midGreen': '#A2CA71',
       'darkGreen': '#387F39',
+      'green': '#1A4D2E',
+      'white': '#F7F6BB',
       'tahiti': '#3ab7bf',
       'silver': '#ecebff',
       'bubble-gum': '#ff77e9',
