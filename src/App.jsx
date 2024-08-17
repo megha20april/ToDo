@@ -44,7 +44,7 @@ function App() {
         value: value,
       };
       setValue("");
-      setItemList([...itemList, item]);
+      setItemList(prev => [...prev, item]);
     }
   };
 
